@@ -10,6 +10,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
   [![Groq](https://img.shields.io/badge/Powered_by-Groq_AI-FF6600?style=for-the-badge)](https://groq.com/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+  **🏆 IIMS VIBEATHON 2026 WINNER 🏆**
   
   **DevBuddy** is a friendly AI assistant platform that helps developers when they are tired or stuck with code. It focuses on your well-being and productivity by combining task management, coding challenges, AI chat support, and health reminders.
   
