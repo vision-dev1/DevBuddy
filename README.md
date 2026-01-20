@@ -196,8 +196,8 @@ app.run(debug=True, port=5001)  # Change to any available port
 
 ## Contact
 
-- 📧 Email: info.devbuddy@gmail.com
-- 📍 Location: Kathmandu, Nepal
+- 📧 info.devbuddy@gmail.com
+- 📍 Kathmandu, Nepal
 
 ## License
 
