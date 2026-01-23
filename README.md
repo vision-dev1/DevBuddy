@@ -191,8 +191,8 @@ app.run(debug=True, port=5001)  # Change to any available port
 
 ## Development Team
 
-- **Vision KC** - Designer, Frontend Developer ([Vision KC](https://visionkc.com.np))
-- **Pranish Khanal** - Backend Developer ([Pranish Khanal](https://bankaiportfolio.framer.website))
+- **[Vision KC](https://visionkc.com.np)** - Designer, Frontend Developer
+- **[Pranish Khanal](https://bankaiportfolio.framer.website)** - Backend Developer
 
 ## Contact
 
@@ -201,6 +201,6 @@ app.run(debug=True, port=5001)  # Change to any available port
 
 ## License
 
-© 2026 DevBuddy. All rights reserved.
+© 2026 DevBuddy. All rights reserved.See the [LICENSE](LICENSE) file for detail.
 
 ---
