@@ -17,6 +17,19 @@
   
 </div>
 
+<div align="center">
+
+## 🌐 Live Demo
+
+🚀 **DevBuddy is Live!**
+
+👉 **Try it here:**  
+### https://dev-buddy-five.vercel.app/
+
+_No installation needed. Just open and start being productive._
+
+</div>
+
 ## Features
 
 - ✅ **Task Manager with Timer** - Focus on one task at a time with built-in Pomodoro timer
