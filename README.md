@@ -202,13 +202,13 @@ app.run(debug=True, port=5001)  # Change to any available port
 - Ensure pip is up to date: `pip install --upgrade pip`
 - Try installing packages individually if batch install fails
 
+## License
+
+© 2026 DevBuddy. All rights reserved.See the [LICENSE](LICENSE) file for detail.
+
 ## Development Team
 
 - **[Vision KC](https://visionkc.com.np)** - Designer, Frontend Developer
 - **[Pranish Khanal](https://bankaiportfolio.framer.website)** - Backend Developer
-
-## License
-
-© 2026 DevBuddy. All rights reserved.See the [LICENSE](LICENSE) file for detail.
 
 ---
