@@ -24,7 +24,7 @@
 🚀 **DevBuddy is Live!**
 
 👉 **Try it here:**  
-### https://dev-buddy-five.vercel.app/
+### [DevBuddy](https://dev-buddy-five.vercel.app/)
 
 _No installation needed. Just open and start being productive._
 
